@@ -14,4 +14,10 @@
 1. Set Right Click To Close Application
 2. Add Colors
 
+### .XINITRC
+1. Add Xrandr Script (fvwmbuttons/iconman starts on wrong screen until fvwm is refreshed)
+
+### XRESOURCES
+1. Find A Good Terminal Colorscheme (stop using pywal and being lazy)
+
 
